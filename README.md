@@ -2,9 +2,11 @@
 
 - 🔭 Sou estudante de ciência da computação
 - 🌱 Estudando JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Me pergunte sobre programação
 - 📫 Como me achar: pedrosalesmcd@gmail.com
-- 😄 Pronouns:Ele/Dele 
--->
+- 😄 Pronomes: Ele/Dele 
+
+<div>
+  <a href="https://beacons,ai/PedroSales07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSales07&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+</div>
