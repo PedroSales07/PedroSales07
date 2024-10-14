@@ -7,8 +7,8 @@
 - 😄 Pronomes: Ele/Dele 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-<i class="devicon-javascript-plain colored"></i>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 
 
 ##
