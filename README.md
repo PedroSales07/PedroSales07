@@ -1,10 +1,10 @@
 # 👋 Hi, i'm Pedro!
 
 🎓 Estudante de **Ciência da Computação** <br>
-🌱 Estudando JavaScript <br>
+📚 Estudando JavaScript <br>
 💬 Me pergunte sobre programação <br>
 📧 Contato: **pedrosalesmcd@gmail.com** <br>
-😄 Pronomes: **Ele/Dele** 
+🫡 Pronomes: **Ele/Dele** 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,cpp,py,git,html,css,)](https://skillicons.dev)
 
