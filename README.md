@@ -8,25 +8,20 @@
 
 ---
 
-## ⚒️ Tecnologias que estou usando
+## ⚒️ Technologies i'm using
 
 <div style="display: flex; gap: 15px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>      
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSales07&show_icons=true&theme=transparent&hide=stars)
-
----
-
-## 💬 Um pouco sobre mim
+## 💬 About me
 
 - Sempre buscando aprender algo novo 💡  
 - Gosto de transformar ideias em código 💻  
@@ -34,7 +29,7 @@
 
 ---
 
-## 🗂️ Repositórios em destaque
+## 🗂️ Some repositories
 
 Aqui estão alguns dos meus projetos em C++ e outras linguagens.
 
