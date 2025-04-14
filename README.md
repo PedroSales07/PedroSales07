@@ -6,7 +6,7 @@
 📧 Contato: **pedrosalesmcd@gmail.com** <br>
 😄 Pronomes: **Ele/Dele** 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,cpp,git,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,cpp,py,git,html,css,)](https://skillicons.dev)
 
 ---
 
